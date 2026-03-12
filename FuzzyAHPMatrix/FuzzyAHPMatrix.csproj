@@ -74,14 +74,14 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Output-screenshots\Analyst Matrix.png" />
-    <Content Include="Output-screenshots\Developer Matrix.png" />
-    <Content Include="Output-screenshots\Faculty Matrix.png" />
+    <Content Include="Output-screenshots\analyst-matrix.png" />
+    <Content Include="Output-screenshots\developer-matrix.png" />
+    <Content Include="Output-screenshots\faculty-matrix.png" />
     <Content Include="Output-screenshots\Interface.png" />
-    <Content Include="Output-screenshots\L,M,U Calculations.png" />
-    <Content Include="Output-screenshots\Priority Weights.png" />
-    <Content Include="Output-screenshots\Ranking.png" />
-    <Content Include="Output-screenshots\SA Values.png" />
+    <Content Include="Output-screenshots\lmu-calculations.png" />
+    <Content Include="Output-screenshots\priority-weights.png" />
+    <Content Include="Output-screenshots\ranking.png" />
+    <Content Include="Output-screenshots\sa-values.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

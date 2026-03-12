@@ -56,28 +56,28 @@ Their evaluations are combined using fuzzy logic to determine the **final priori
 ## Outputs
 
 ## Application Interface
-![Interface](FuzzyAHMatrix/Output-screenshots/Interface.png)
+![Interface](FuzzyAHPMatrix/Output-screenshots/Interface.png)
 
 ## Developer Matrix Input
-![Developer Matrix](FuzzyAHMatrix/Output-screenshots/developer-matrix.png)
+![Developer Matrix](FuzzyAHPMatrix/Output-screenshots/developer-matrix.png)
 
 ## Analyst Matrix Input
-![Analyst Matrix](FuzzyAHMatrix/Output-screenshots/analyst-matrix.png)
+![Analyst Matrix](FuzzyAHPMatrix/Output-screenshots/analyst-matrix.png)
 
 ## Faculty Matrix Input
-![Faculty Matrix](FuzzyAHMatrix/Output-screenshots/faculty-matrix.png)
+![Faculty Matrix](FuzzyAHPMatrix/Output-screenshots/faculty-matrix.png)
 
-## Fuzzy Matrix Calculations (L, M, U)
-![LMU Calculations](FuzzyAHMatrix/Output-screenshots/lmu-calculations.png)
+## Fuzzy Matrix Calculations
+![LMU Calculations](FuzzyAHPMatrix/Output-screenshots/lmu-calculations.png)
 
 ## Synthetic Analysis Values
-![SA Values](FuzzyAHMatrix/Output-screenshots/sa-values.png)
+![SA Values](FuzzyAHPMatrix/Output-screenshots/sa-values.png)
 
 ## Priority Weights
-![Priority Weights](FuzzyAHMatrix/Output-screenshots/priority-weights.png)
+![Priority Weights](FuzzyAHPMatrix/Output-screenshots/priority-weights.png)
 
 ## Final Ranking
-![Ranking](FuzzyAHMatrix/Output-screenshots/Ranking.png)
+![Ranking](FuzzyAHPMatrix/Output-screenshots/ranking.png)
 
 ## Why This Tool Is Useful
 

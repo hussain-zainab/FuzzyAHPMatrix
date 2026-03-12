@@ -73,5 +73,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Outout-screenshots\Analyst Matrix.png" />
+    <Content Include="Outout-screenshots\Developer Matrix.png" />
+    <Content Include="Outout-screenshots\Faculty Matrix.png" />
+    <Content Include="Outout-screenshots\Interface.png" />
+    <Content Include="Outout-screenshots\L,M,U Calculations.png" />
+    <Content Include="Outout-screenshots\Priority Weights.png" />
+    <Content Include="Outout-screenshots\Ranking.png" />
+    <Content Include="Outout-screenshots\SA Values.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -77,7 +77,7 @@ Their evaluations are combined using fuzzy logic to determine the **final priori
 ![Priority Weights](FuzzyAHPMatrix/Output-screenshots/priority-weights.png)
 
 ## Final Ranking
-![Ranking](FuzzyAHPMatrix/Output-screenshots/ranking.png)
+![Ranking](FuzzyAHPMatrix/Output-screenshots/Ranking.png)
 
 ## Why This Tool Is Useful
 

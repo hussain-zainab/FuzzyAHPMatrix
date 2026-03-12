@@ -53,21 +53,30 @@ Their evaluations are combined using fuzzy logic to determine the **final priori
 6. Alternatives are ranked automatically based on their priority scores.
 
 ---
+## Outputs
 
+## Application Interface
 ![Interface](FuzzyAHMatrix/Output-screenshots/Interface.png)
 
+## Developer Matrix Input
 ![Developer Matrix](FuzzyAHMatrix/Output-screenshots/developer-matrix.png)
 
+## Analyst Matrix Input
 ![Analyst Matrix](FuzzyAHMatrix/Output-screenshots/analyst-matrix.png)
 
+## Faculty Matrix Input
 ![Faculty Matrix](FuzzyAHMatrix/Output-screenshots/faculty-matrix.png)
 
+## Fuzzy Matrix Calculations (L, M, U)
 ![LMU Calculations](FuzzyAHMatrix/Output-screenshots/lmu-calculations.png)
 
-![Priority Weights](FuzzyAHMatrix/Output-screenshots/priority-weights.png)
-
+## Synthetic Analysis Values
 ![SA Values](FuzzyAHMatrix/Output-screenshots/sa-values.png)
 
+## Priority Weights
+![Priority Weights](FuzzyAHMatrix/Output-screenshots/priority-weights.png)
+
+## Final Ranking
 ![Ranking](FuzzyAHMatrix/Output-screenshots/Ranking.png)
 
 ## Why This Tool Is Useful
